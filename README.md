@@ -61,3 +61,7 @@ Buat file baru dengan nama about.php
 <?php require('footer.php'); ?>
 ```
 ![2](https://github.com/abdulmajid96/Lab9Web/blob/main/SS/2.PNG)
+
+## Pertanyaan dan Tugas
+Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
+database, sehingga setiap halamannya memiliki template tampilan yang sama.
